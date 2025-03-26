@@ -1,0 +1,4 @@
+Invoking command in '/home/gyc/test/build/cpp01': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gyc/test/build/cpp01 -- -j24 -l24
+Invoked command in '/home/gyc/test/build/cpp01' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gyc/test/build/cpp01 -- -j24 -l24
+Invoking command in '/home/gyc/test/build/cpp01': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/gyc/test/build/cpp01
+Invoked command in '/home/gyc/test/build/cpp01' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/gyc/test/build/cpp01

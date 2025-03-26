@@ -1,0 +1,23 @@
+[0.008s] Invoking command in '/home/gyc/test/build/cpp01': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gyc/test/build/cpp01 -- -j24 -l24
+[0.041s] [35m[1mConsolidate compiler generated dependencies of target demo01[0m
+[0.054s] [100%] Built target demo01
+[0.063s] Invoked command in '/home/gyc/test/build/cpp01' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gyc/test/build/cpp01 -- -j24 -l24
+[0.072s] Invoking command in '/home/gyc/test/build/cpp01': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/gyc/test/build/cpp01
+[0.079s] -- Install configuration: ""
+[0.080s] -- Up-to-date: /home/gyc/test/install/cpp01/lib/cpp01/demo01
+[0.080s] -- Up-to-date: /home/gyc/test/install/cpp01/share/ament_index/resource_index/package_run_dependencies/cpp01
+[0.080s] -- Up-to-date: /home/gyc/test/install/cpp01/share/ament_index/resource_index/parent_prefix_path/cpp01
+[0.080s] -- Up-to-date: /home/gyc/test/install/cpp01/share/cpp01/environment/ament_prefix_path.sh
+[0.080s] -- Up-to-date: /home/gyc/test/install/cpp01/share/cpp01/environment/ament_prefix_path.dsv
+[0.080s] -- Up-to-date: /home/gyc/test/install/cpp01/share/cpp01/environment/path.sh
+[0.080s] -- Up-to-date: /home/gyc/test/install/cpp01/share/cpp01/environment/path.dsv
+[0.080s] -- Up-to-date: /home/gyc/test/install/cpp01/share/cpp01/local_setup.bash
+[0.080s] -- Up-to-date: /home/gyc/test/install/cpp01/share/cpp01/local_setup.sh
+[0.080s] -- Up-to-date: /home/gyc/test/install/cpp01/share/cpp01/local_setup.zsh
+[0.080s] -- Up-to-date: /home/gyc/test/install/cpp01/share/cpp01/local_setup.dsv
+[0.080s] -- Up-to-date: /home/gyc/test/install/cpp01/share/cpp01/package.dsv
+[0.080s] -- Up-to-date: /home/gyc/test/install/cpp01/share/ament_index/resource_index/packages/cpp01
+[0.081s] -- Up-to-date: /home/gyc/test/install/cpp01/share/cpp01/cmake/cpp01Config.cmake
+[0.081s] -- Up-to-date: /home/gyc/test/install/cpp01/share/cpp01/cmake/cpp01Config-version.cmake
+[0.081s] -- Up-to-date: /home/gyc/test/install/cpp01/share/cpp01/package.xml
+[0.082s] Invoked command in '/home/gyc/test/build/cpp01' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/gyc/test/build/cpp01
